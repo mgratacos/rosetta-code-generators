@@ -44,6 +44,7 @@ The mechanism is also future-proof to future version updates of the model. Distr
 
 The [Rosetta Code Generator repository](https://github.com/REGnosys/rosetta-code-generators) provides additional code generators and allows the community to contribute code generators in any other languages. The languages currently supported are:
 
+- [Python](https://https://www.python.org/)
 - [DAML](https://daml.com/)
 - [Scala](https://www.scala-lang.org/)
 - [TypeScript](https://www.typescriptlang.org/)
